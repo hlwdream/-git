@@ -1,0 +1,14 @@
+debug/
+release/
+*.user
+*.bak
+*.wbk
+*.rar
+*.pdb
+*.pch
+*.db
+*.suo
+obj/
+.vs/
+*/.idea/
+*/.gradle/
